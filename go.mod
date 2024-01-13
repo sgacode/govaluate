@@ -1,1 +1,1 @@
-module govaluate
+module github.com/sgacode/govaluate
